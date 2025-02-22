@@ -3,11 +3,13 @@
 
 A web-based tool that parses Welkin Moon Blessing records, generates interactive calendars, and provides detailed statistics for better in-game resource management.
 
+<img src="https://fairy-ju.github.io/genshin-welkin-tracker/Thumbnail.png" alt="Thumbnail" style="width:40%;">
+
 ## 使用方法：
 
 进入游戏内反馈页面，选择「空月祝福记录」，划到页面最底端以加载全部记录，全选整个网页并复制，粘贴在[转换器网页](https://fairy-ju.github.io/genshin-welkin-tracker/)的输入框中，点击「转换记录格式」即可。
 
-## **How to Use:**
+## How to Use:
 
 1. Navigate to the in-game Feedback page
 2. Select 「Welkin Moon Blessing Records」
@@ -16,4 +18,6 @@ A web-based tool that parses Welkin Moon Blessing records, generates interactive
 5. Paste into the [Converter Webpage](https://fairy-ju.github.io/genshin-welkin-tracker/) input box
 6. Click「转换记录格式」to generate visual analysis
 
-<video src="fairy-ju.github.io/genshin-welkin-tracker/Guide.mp4"></video>
+## Video Guide/视频教程
+
+[https://fairy-ju.github.io/genshin-welkin-tracker/Guide.mp4](https://fairy-ju.github.io/genshin-welkin-tracker/Guide.mp4)
