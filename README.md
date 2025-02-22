@@ -16,4 +16,4 @@ A web-based tool that parses Welkin Moon Blessing records, generates interactive
 5. Paste into the [Converter Webpage](https://fairy-ju.github.io/genshin-welkin-tracker/) input box
 6. Click「转换记录格式」to generate visual analysis
 
-<video src="https://fairy-ju.github.io/genshin-welkin-tracker/Guide.mp4"></video>
+<video src="fairy-ju.github.io/genshin-welkin-tracker/Guide.mp4"></video>
